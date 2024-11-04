@@ -16,7 +16,7 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ksanjeev284)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalvk2511)
 [![Website](https://img.shields.io/badge/Website-333?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ctccalculator.in)
 
 ---
