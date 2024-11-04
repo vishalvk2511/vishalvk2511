@@ -43,6 +43,6 @@
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – _Cory House_
+> “We can only see a short distance ahead, but we can see plenty there that needs to be done.” – _Alan Turing_
 
 ---
