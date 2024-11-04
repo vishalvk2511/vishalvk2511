@@ -4,35 +4,33 @@
 
 ### 🚀 About Me
 
-- 🔭 **Currently working on**: Instagram Chat Bot  
-- 🌱 **Currently learning**: Python  
+- 🔭 **Currently working on**: Nil 
+- 🌱 **Currently learning**: Machine Learning  
 - 👯 **Looking to collaborate on**: Open-source Python projects  
-- 🤔 **Seeking help with**: Optimizing my Instagram Chat Bot  
-- 💬 **Ask me about**: Python, Automation, Bots  
+- 🤔 **Seeking help with**: Nil 
+- 💬 **Ask me about**: Python, AI, ML  
 - 😄 **Pronouns**: He/Him  
-- ⚡ **Fun fact**: Your hair grows faster in the morning than at any other time of day.
-
+- ⚡ **Fun fact**: "The only thing worse than a programmer who can’t debug is a programmer who can debug but doesn’t know when to stop."
 ---
 
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalvk2511)
-[![Website](https://img.shields.io/badge/Website-333?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ctccalculator.in)
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksanjeev284&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksanjeev284&theme=radical" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalvk2511&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalvk2511&theme=radical" alt="GitHub Streak" width="400" />
 </div>
 
 ---
 
 ### 📈 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/ksanjeev284/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/vishalvk2511/count.svg)
 
 ---
 
